@@ -29,6 +29,7 @@ a {
     display: grid;
     width: 1200px;
     height: 700px;
+    margin: auto;
     grid-template-columns: 1.5fr 1fr 1fr;
     grid-template-rows: repeat(3,1fr);
 }
