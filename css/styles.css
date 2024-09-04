@@ -76,6 +76,10 @@ a {
     color: var(--link-nav);
 }
 
+.main-nav a:hover {
+    color: var(--text-light);
+}
+
 .profile-img {
     grid-row: span 2;
     background: url('../images/person-image.jpg') no-repeat center center/cover;
