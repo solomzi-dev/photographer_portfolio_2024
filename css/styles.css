@@ -95,6 +95,14 @@ a {
     margin-bottom: .7rem;
 }
 
+.white a {
+   color: var(--link-nav);
+   display: inline-block;
+   padding-bottom: .5rem;
+   border-bottom: var(--text-light) solid 1px;
+   width: fit-content;
+}
+
 .white {
     background-color: var(--bg-light);
     color: var(--text-light);
